@@ -40,7 +40,7 @@ print("{}x{}x{}'nın çarpımı {}'dır.".format(a, b, c, çarpım ))
 
 
 
-Answer2
+Answer_2
 
 
 
